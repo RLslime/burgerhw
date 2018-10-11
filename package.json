@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/RLslime/burgerhw/issues"
   },
-  "homepage": "https://github.com/RLslime/burgerhw#readme"
+  "homepage": "https://github.com/RLslime/burgerhw#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
 }
