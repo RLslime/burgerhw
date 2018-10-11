@@ -1,0 +1,20 @@
+{
+  "name": "burgerhw",
+  "version": "1.0.0",
+  "description": "burgers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RLslime/burgerhw.git"
+  },
+  "author": "shane collins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RLslime/burgerhw/issues"
+  },
+  "homepage": "https://github.com/RLslime/burgerhw#readme"
+}
